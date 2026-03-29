@@ -294,7 +294,7 @@ test: add unit tests for feature pipeline
 
 ## Author
 
-Hooman Esteki, Master of Data Science, target role: ML Engineer
+Hooman Esteki, Master of Data Science, ML Engineer
 
 ---
 
